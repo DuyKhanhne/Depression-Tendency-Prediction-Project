@@ -5,7 +5,7 @@
 - **Outcome**: Accurate metrics and insights into factors influencing depression.
 
 ## Dataset
-- **Source**: Depression dataset
+- **Source**: [Depression Dataset on Kaggle](https://www.kaggle.com/datasets/anthonytherrien/depression-dataset/data)
 - **Description**: This dataset contains information on individuals with various attributes related to their personal and lifestyle factors.
 - **Structure**:
   - **Name**: The full name of the individual.
@@ -48,4 +48,4 @@
 - Create visualizations to better understand the relationships in data. This could include scatter plots, bar charts, or heat maps.
 
 ### Data Storytelling
-- Present predictions and provide actionable recommendations for families, psychologists and medical social workers to pay more attention to the development of depression in similar individuals.
+- Present predictions and provide actionable recommendations for families, psychologists, and medical social workers to pay more attention to the development of depression in similar individuals.
